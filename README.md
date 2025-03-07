@@ -72,6 +72,10 @@ print("RMSE= ",rmse)
 
 ![WhatsApp Image 2025-03-06 at 12 32 54_616ed61f](https://github.com/user-attachments/assets/e0f95ca0-fecf-46b2-bdc4-73b7fe791646)
 
-
+```
+MSE =  4.691397441397446
+MAE =  4.691397441397446
+RMSE=  2.165963397981934
+```
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
